@@ -165,3 +165,58 @@
 // else {
 //     alert("Try Again");
 // }
+
+// Question no 09 //
+
+// var oddEven = prompt("Enter your Number!")
+
+// if (oddEven % 2 === 0){
+//     alert("Your number is Even")
+// }
+// else{
+//     alert("Your number is Odd")
+// }
+
+// Question no 10 //
+
+// var temperature = prompt("Enter your Temperature");
+
+// if(temperature <= 40){
+//     alert("oh! today is so hot Outside")
+// }
+// else if(temperature <= 30){
+//     alert("oh! today is  Normal Outside");
+// }
+
+// else if(temperature <= 20){
+//     alert("oh! today is  Cold Outside");
+// }
+
+// else if(temperature <= 10){
+//     alert("oh! today is so Cold Outside");
+// }
+
+// Question no 11 //
+
+var value1 = +prompt("enter your first value");
+var opertaor = prompt("enter your operator");
+var value2 = +prompt("enter your Second value");
+
+if (opertaor === "+") {
+    document.write(value1 = value1 + value2)
+}
+else if (opertaor === "-") {
+    document.write(value1 = value1 - value2)
+}
+else if (opertaor === "-") {
+    document.write(value1 = value1 - value2)
+}
+else if (opertaor === "*") {
+    document.write(value1 = value1 * value2)
+}
+else if (opertaor === "/") {
+    document.write(value1 = value1 / value2)
+}
+else if (opertaor === "%") {
+    document.write(value1 = value1 % value2)
+}
