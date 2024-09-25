@@ -198,25 +198,25 @@
 
 // Question no 11 //
 
-var value1 = +prompt("enter your first value");
-var opertaor = prompt("enter your operator");
-var value2 = +prompt("enter your Second value");
+// var value1 = +prompt("enter your first value");
+// var opertaor = prompt("enter your operator");
+// var value2 = +prompt("enter your Second value");
 
-if (opertaor === "+") {
-    document.write(value1 = value1 + value2)
-}
-else if (opertaor === "-") {
-    document.write(value1 = value1 - value2)
-}
-else if (opertaor === "-") {
-    document.write(value1 = value1 - value2)
-}
-else if (opertaor === "*") {
-    document.write(value1 = value1 * value2)
-}
-else if (opertaor === "/") {
-    document.write(value1 = value1 / value2)
-}
-else if (opertaor === "%") {
-    document.write(value1 = value1 % value2)
-}
+// if (opertaor === "+") {
+//     document.write(value1 = value1 + value2)
+// }
+// else if (opertaor === "-") {
+//     document.write(value1 = value1 - value2)
+// }
+// else if (opertaor === "-") {
+//     document.write(value1 = value1 - value2)
+// }
+// else if (opertaor === "*") {
+//     document.write(value1 = value1 * value2)
+// }
+// else if (opertaor === "/") {
+//     document.write(value1 = value1 / value2)
+// }
+// else if (opertaor === "%") {
+//     document.write(value1 = value1 % value2)
+// }
